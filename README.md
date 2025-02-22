@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Languages
-![Languages](https://simpleskill.icons.workers.dev/svg?i=python,sqlite,lua,javascript)
+![Languages](https://simpleskill.icons.workers.dev/svg?i=python,lua,sqlite,javascript,discord.py)
 <!--
 **SisterHailey/sisterhailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
