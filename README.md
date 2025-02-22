@@ -11,7 +11,6 @@ My name is Hailey, Ley, Leyley, SisterHailey, Sister, Clown, Clownley, Megabyte,
 ### Contact
 Add me on discord [@megabyteofficial](https://discordapp.com/users/474345408588677121)  
 
-![top langs]("https://github-readme-stats.vercel.app/api/top-langs?username=sisterhailey&show_icons=true&locale=en&layout=compact)
 ![profile visits](https://komarev.com/ghpvc/?username=SisterHailey&color=blue)
 ![readme stats](https://github-readme-stats.vercel.app/api?username=sisterhailey&show_icons=true&locale=en)
 ![readme streak](https://github-readme-streak-stats.herokuapp.com/?user=sisterhailey&)
