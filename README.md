@@ -2,7 +2,7 @@
 My name is Hailey, Ley, Leyley, SisterHailey, Sister, Clown, Clownley, Megabyte, MegabyteOfficial, Kiara, Brooke, Schitzwestenmadchen/Schitzwester, Sisterbot, Milk, or whatever else you may know me as.
 
 ### Languages
-![Languages](https://simpleskill.icons.workers.dev/svg?i=python,lua,sqlite,javascript,discord.py)
+![Languages](https://simpleskill.icons.workers.dev/svg?i=python,lua,sqlite,javascript,flask,nginx)
 
 ### Websites
 [cmds.media](https://cmds.media/)  
@@ -11,6 +11,7 @@ My name is Hailey, Ley, Leyley, SisterHailey, Sister, Clown, Clownley, Megabyte,
 ### Contact
 Add me on discord [@megabyteofficial](https://discordapp.com/users/474345408588677121)  
 
+## 👀
 ![readme stats](https://github-readme-stats.vercel.app/api?username=sisterhailey&show_icons=true&locale=en)  
 ![profile visits](https://komarev.com/ghpvc/?username=SisterHailey&color=blue)
 
