@@ -1,7 +1,13 @@
 ## Hi there 👋
+My name is Hailey, Ley, Leyley, SisterHailey, Sister, Clown, Clownley, Megabyte, MegabyteOfficial, Kiara, Brooke, Schitzwestenmadchen/Schitzwester, Sisterbot, Milk, or whatever else you may know me as.
 
 ### Languages
-![Languages](https://simpleskill.icons.workers.dev/svg?i=python,lua,sqlite,javascript)
+![Languages](https://simpleskill.icons.workers.dev/svg?i=python,lua,sqlite,javascript,discord.py)
+
+### Websites
+[cmds.media](https://cmds.media/)
+[axis.cmds.media](https://axis.cmds.media/)
+
 <!--
 **SisterHailey/sisterhailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
