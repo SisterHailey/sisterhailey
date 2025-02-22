@@ -11,9 +11,8 @@ My name is Hailey, Ley, Leyley, SisterHailey, Sister, Clown, Clownley, Megabyte,
 ### Contact
 Add me on discord [@megabyteofficial](https://discordapp.com/users/474345408588677121)  
 
+![readme stats](https://github-readme-stats.vercel.app/api?username=sisterhailey&show_icons=true&locale=en)  
 ![profile visits](https://komarev.com/ghpvc/?username=SisterHailey&color=blue)
-![readme stats](https://github-readme-stats.vercel.app/api?username=sisterhailey&show_icons=true&locale=en)
-![readme streak](https://github-readme-streak-stats.herokuapp.com/?user=sisterhailey&)
 
 <!--
 **SisterHailey/sisterhailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
