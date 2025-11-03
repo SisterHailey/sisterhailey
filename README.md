@@ -7,6 +7,8 @@ My name is Hailey, Ley, Leyley, SisterHailey, Sister, Clown, Clownley, Megabyte,
 ### Websites
 [cmds.media](https://cmds.media/)  
 [axis.cmds.media](https://axis.cmds.media/)  
+[search.cmds.media](https://search.cmds.media/)  
+[comics.cmds.media](https://comics.cmds.media/)  
 
 ### Contact
 Add me on discord [@megabyteofficial](https://discordapp.com/users/474345408588677121)  
