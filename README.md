@@ -2,7 +2,7 @@
 My name is Hailey, Ley, Leyley, SisterHailey, Sister, Clown, Clownley, Megabyte, MegabyteOfficial, Kiara, Brooke, Schitzwestenmadchen/Schitzwester, Sisterbot, Milk, or whatever else you may know me as.
 
 ### Languages
-![Languages](https://simpleskill.icons.workers.dev/svg?i=python,lua,sqlite,javascript,flask,nginx,html5,css3,postgres)
+![Languages](https://simpleskill.icons.workers.dev/svg?i=python,lua,sqlite,javascript,flask,nginx,html5,postgresql)
 
 ### Websites
 [cmds.media](https://cmds.media/)  
