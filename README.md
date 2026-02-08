@@ -1,10 +1,10 @@
 ## Hi there 👋
 My name is Hailey, Ley, Leyley, SisterHailey, Sister, Clown, Clownley, Megabyte, MegabyteOfficial, Kiara, Brooke, Schitzwestenmadchen/Schitzwester, Sisterbot, Milk, or whatever else you may know me as.
 
-### Languages
+### Stuff I Use
 ![Languages](https://simpleskill.icons.workers.dev/svg?i=python,postgresql,lua,luau,javascript,sqlite,flask,nginx,html5,pytorch)
 
-### Websites
+### Projects
 [cmds.media](https://cmds.media/)  
 [axis.cmds.media](https://axis.cmds.media/)  
 [search.cmds.media](https://search.cmds.media/)  
