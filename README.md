@@ -1,7 +1,7 @@
 ## Hey 👋
 
 ### Stuff I Use
-![Languages](https://simpleskill.icons.workers.dev/svg?i=python,postgresql,lua,luau,javascript,sqlite,flask,nginx,html5,pytorch)
+![Languages](https://simpleskill.icons.workers.dev/svg?i=python,postgresql,lua,luau,javascript,sqlite,flask,nginx,html5,pytorch,php)
 
 ### Projects
 [cmds.media](https://cmds.media/)  
