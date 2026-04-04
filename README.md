@@ -14,7 +14,6 @@ Add me on discord [@megabyteofficial](https://discordapp.com/users/4743454085886
 
 ## 👀
 ![profile visits](https://komarev.com/ghpvc/?username=SisterHailey&color=blue)
-<img alt="followers" src="https://img.shields.io/github/followers/SisterHailey?label=Followers&style=social">
 <img src="https://img.shields.io/github/stars/SisterHailey?label=Stars" alt="stars">
 
 <!--
