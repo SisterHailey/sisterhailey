@@ -1,32 +1,13 @@
 ## Hey 👋
 
-### Stuff I Use
-![Languages](https://simpleskill.icons.workers.dev/svg?i=python,postgresql,lua,luau,javascript,sqlite,flask,nginx,html5,pytorch,php)
-
 ### Projects
-[cmds.media](https://cmds.media/)  
-[axis.cmds.media](https://axis.cmds.media/)  
-[search.cmds.media](https://search.cmds.media/)  
-[comics.cmds.media](https://comics.cmds.media/)  
+<img src="https://cmds.media/favicon.ico" width="16" height="16"> [cmds.media](https://cmds.media/)  
+<img src="https://axis.cmds.media/favicon.ico" width="16" height="16"> [axis.cmds.media](https://axis.cmds.media/)  
+<img src="https://search.cmds.media/favicon.ico" width="16" height="16"> [search.cmds.media](https://search.cmds.media/)
 
 ### Contact
 Add me on discord [@megabyteofficial](https://discordapp.com/users/474345408588677121)  
 
 ## 👀
-![profile visits](https://komarev.com/ghpvc/?username=SisterHailey&color=blue)
+<img src="https://komarev.com/ghpvc/?username=SisterHailey&color=blue" alt="profile visits">
 <img src="https://img.shields.io/github/stars/SisterHailey?label=Stars" alt="stars">
-
-<!--
-**SisterHailey/sisterhailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
